@@ -13,7 +13,6 @@ He worked as a postdoc in Tencent and Peking University (2018~2021).
 He received Ph.D. from Wangxuan Institute of Computer Technology, Peking Universiy in 2018, advised by [Prof. Dongyao Zhao](https://www.wict.pku.edu.cn/zhaodongyan/en/) and [Prof. Lei Zou](https://www.wict.pku.edu.cn/zoulei/).
 He was a visiting student in Database System Group in University of Waterloo (2016~2017), working with [Prof. Tamer Ozsu](https://cs.uwaterloo.ca/~tozsu/).
 He received B.S. from School of Electronics Engineering and Computer Science, Peking University in 2013.
-I received my B.S. degree (2013) and Ph.D degree (2018)  in Peking University. 
 
 A data-driven personal website
 ======
