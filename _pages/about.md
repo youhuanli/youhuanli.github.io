@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Youhuan Li is an associate professor from Hunan University. He received his B.S. degree (2013) and Ph.D degree (2018)  in Peking University. He worked as a postdoc in Tencent and Peking University (2018~2020). He joined Hunan University as an associate professor at March 2021, his research interests focus on  LLM based data management.
+Youhuan Li is currently an associate professor in College of Computer Science and Electronic Engineering, Hunan University. 
+His research interests focus on  LLM-based data management.
+He worked as a postdoc in Tencent and Peking University (2018~2021).
+He received Ph.D. from Wangxuan Institute of Computer Technology, Peking Universiy in 2018, advised by Prof. Dongyao Zhao and Prof. Lei Zou.
+He was a visiting student in Database System Group in University of Waterloo (2016~2017), working with Prof. Tamer Ozsu.
+He received B.S. from School of Electronics Engineering and Computer Science, Peking University in 2013.
+I received my B.S. degree (2013) and Ph.D degree (2018)  in Peking University. 
 
 A data-driven personal website
 ======
