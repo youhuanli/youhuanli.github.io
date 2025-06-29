@@ -21,10 +21,10 @@ More specifically, he is committed to bridging the gap between database usage an
 Selected Publications
 ======
 
-- **<论文标题1>**  
+- <span style="color:blue">**论文标题**</span>  
 
-  **<u>第一作者姓名</u>**, 第二作者, 第三作者, et al.  
-  <span style="color:brown">会议/期刊名称</span> <年份>  
+  **<u>第一作者</u>**, 第二作者, 第三作者, et al.  
+  <span style="color:brown">会议名称</span> 年份: 起始页码-结束页码
 
 - **<论文标题2>**  
 
