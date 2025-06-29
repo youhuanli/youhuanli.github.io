@@ -18,7 +18,7 @@ Research Interests
 Youhuan Li recently focus on LLM-driven data management and analysis. 
 More specifically, he is committed to bridging the gap between database usage and ordinary people, enabling the design, deployment, creation, and query management of databases through natural language alone—without requiring specialized computer or database expertise.
 
-Selected Publications ([Full List on DBLP](https://dblp.org/pid/163/3909.html))
+Selected Publications <span style="font-size: 15px">([Full List on DBLP](https://dblp.org/pid/163/3909.html))</span>
 ======
 
 - <span style="font-size: 15px;color:blue">**Graph Neural Networks for Databases: A Survey.**</span> <span style="font-size: 15px;color:brown">IJCAI 2025</span>.   <br/> <span style="font-size: 15px;">   Ziming Li, **<u>Youhuan Li*</u>**, Yuyu Luo, Guoliang Li, Chuxu Zhang  </span>
