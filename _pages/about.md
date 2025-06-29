@@ -21,20 +21,19 @@ More specifically, he is committed to bridging the gap between database usage an
 Selected Publications
 ======
 
-- <span style="color:blue">**MatCo: Computing Match Cover of Subgraph Query over Graph Data.**</span> <span style="color:brown">SIGMOD 2025</span>.  <br/>  Zhichao Shi, **<u>Youhuan Li*</u>**, Ziming Li, Yuequn Dou, Xionghu Zhong, Lei Zou  
+- <span style="font-size: 13px;color::blue">**MatCo: Computing Match Cover of Subgraph Query over Graph Data.**</span> <span style="font-size: 13px;color::brown">SIGMOD 2025</span>.   <br/> <span style="font-size: 13px;">   Zhichao Shi, **<u>Youhuan Li*</u>**, Ziming Li, Yuequn Dou, Xionghu Zhong, Lei Zou  </span>
+- <span style="font-size: 13px;color::blue">**NewSP: A New Search Process for Continuous Subgraph Matching over Dynamic Graphs.**</span>  <span style="font-size: 13px;color::brown">ICDE 2024</span>.   <br/> <span style="font-size: 13px;">  Ziming Li, **<u>Youhuan Li*</u>**, Xinhuan Chen, Lei Zou, Yang Li, Xiaofeng Yang, Hongbo Jiang </span>  
 
-- <span style="color:blue">**NewSP: A New Search Process for Continuous Subgraph Matching over Dynamic Graphs.**</span>  <span style="color:brown">ICDE 2024</span>.  <br/> Ziming Li, **<u>Youhuan Li*</u>**, Xinhuan Chen, Lei Zou, Yang Li, Xiaofeng Yang, Hongbo Jiang  
+- <span style="font-size: 13px;color::blue">**CSM-TopK: Continuous Subgraph Matching with TopK Density Constraints.**</span>   <span style="font-size: 13px;color::brown">ICDE 2024</span>.   <br/> <span style="font-size: 13px;">  Chuchu Gao, **<u>Youhuan Li*</u>**, Zhibang Yang, Xu Zhou </span>  
 
-- <span style="color:blue">**CSM-TopK: Continuous Subgraph Matching with TopK Density Constraints.**</span>   <span style="color:brown">ICDE 2024</span>.  <br/> Chuchu Gao, **<u>Youhuan Li*</u>**, Zhibang Yang, Xu Zhou  
+- <span style="font-size: 13px;color::blue">**Vertex Encoding for Edge Nonexistence Determination with SIMD Acceleration.**</span>   <span style="font-size: 13px;color::brown">TKDE 2024</span>.   <br/> <span style="font-size: 13px;">  Hangyu Zheng, **<u>Youhuan Li*</u>**, Fang Xiong, Xiaosen Li, Lei Zou, Peifan Shi, Zheng Qin </span>  
 
-- <span style="color:blue">**Vertex Encoding for Edge Nonexistence Determination with SIMD Acceleration.**</span>   <span style="color:brown">TKDE 2024</span>.  <br/> Hangyu Zheng, **<u>Youhuan Li*</u>**, Fang Xiong, Xiaosen Li, Lei Zou, Peifan Shi, Zheng Qin  
+- <span style="font-size: 13px;color::blue">**VEND: Vertex Encoding for Edge Nonexistence Determination.**</span>   <br/> <span style="font-size: 13px;">  <span style="font-size: 13px;color::brown">ICDE 2023.  <br/> <span style="font-size: 13px;">  </span> **<u>Youhuan Li</u>**, Hangyu Zheng, Lei Zou, Xiaosen Li, Ziming Li, Pin Xiao, Yangyu Tao, Zheng Qin </span>  
 
-- <span style="color:blue">**VEND: Vertex Encoding for Edge Nonexistence Determination.**</span>  <br/> <span style="color:brown">ICDE 2023. <br/> </span> **<u>Youhuan Li</u>**, Hangyu Zheng, Lei Zou, Xiaosen Li, Ziming Li, Pin Xiao, Yangyu Tao, Zheng Qin  
+- <span style="font-size: 13px;color::blue">**Space-Efficient Subgraph Search over Streaming Graph with Timing Order Constraint.**</span>  <span style="font-size: 13px;color::brown">TKDE 2022</span>.   <br/> <span style="font-size: 13px;">  **<u>Youhuan Li</u>**, Lei Zou, M Tamer Ozsu, Dongyan Zhao </span>  
 
-- <span style="color:blue">**Space-Efficient Subgraph Search over Streaming Graph with Timing Order Constraint.**</span>  <span style="color:brown">TKDE 2022</span>.  <br/> **<u>Youhuan Li</u>**, Lei Zou, M Tamer Ozsu, Dongyan Zhao  
+- <span style="font-size: 13px;color::blue">**Time constrained continuous subgraph search over streaming graphs.**</span>  <span style="font-size: 13px;color::brown">ICDE 2019</span>.   <br/> <span style="font-size: 13px;">  **<u>Youhuan Li</u>**, Lei Zou, M Tamer Ozsu, Dongyan Zhao </span>  
 
-- <span style="color:blue">**Time constrained continuous subgraph search over streaming graphs.**</span>  <span style="color:brown">ICDE 2019</span>.  <br/> **<u>Youhuan Li</u>**, Lei Zou, M Tamer Ozsu, Dongyan Zhao  
+- <span style="font-size: 13px;color::blue">**Longest Increasing Subsequence Computation over Streaming Sequences.**</span>   <span style="font-size: 13px;color::brown">TKDE 2017.</span>   <br/> <span style="font-size: 13px;">  **<u>Youhuan Li</u>**, Lei Zou, Huaming Zhang, Dongyan Zhao </span>  
 
-- <span style="color:blue">**Longest Increasing Subsequence Computation over Streaming Sequences.**</span>   <span style="color:brown">TKDE 2017.</span>  <br/> **<u>Youhuan Li</u>**, Lei Zou, Huaming Zhang, Dongyan Zhao  
-
-- <span style="color:blue">**Computing Longest Increasing Subsequence Over Sequential Data Streams.**</span>  <br/> <span style="color:brown">VLDB 2016.</span>  <br/> **<u>Youhuan Li</u>**, Lei Zou, Huaming Zhang, Dongyan Zhao  
+- <span style="font-size: 13px;color::blue">**Computing Longest Increasing Subsequence Over Sequential Data Streams.**</span>   <br/> <span style="font-size: 13px;">  <span style="font-size: 13px;color::brown">VLDB 2016.</span>   <br/> <span style="font-size: 13px;">  **<u>Youhuan Li</u>**, Lei Zou, Huaming Zhang, Dongyan Zhao </span>  
