@@ -21,7 +21,7 @@ More specifically, he is committed to bridging the gap between database usage an
 Selected Publications
 ======
 
-
+- <span style="font-size: 15px;color:blue">**Graph Neural Networks for Databases: A Survey.**</span> <span style="font-size: 15px;color:brown">IJCAI 2025</span>.   <br/> <span style="font-size: 15px;">   Ziming Li, **<u>Youhuan Li*</u>**, Yuyu Luo, Guoliang Li, Chuxu Zhang  </span>
 - <span style="font-size: 15px;color:blue">**MatCo: Computing Match Cover of Subgraph Query over Graph Data.**</span> <span style="font-size: 15px;color:brown">SIGMOD 2025</span>.   <br/> <span style="font-size: 15px;">   Zhichao Shi, **<u>Youhuan Li*</u>**, Ziming Li, Yuequn Dou, Xionghu Zhong, Lei Zou  </span>
 - <span style="font-size: 15px;color:blue">**RSM: Reinforced Subgraph Matching Framework with Fine-grained Operation based Search Plan.**</span>  <span style="font-size: 15px;color:brown">WSDM 2025</span>.   <br/> <span style="font-size: 15px;">  Ziming Li, Yuequn Dou, **<u>Youhuan Li*</u>**, Xinhuan Chen, Chuxu Zhang </span>  
 - <span style="font-size: 15px;color:blue">**NewSP: A New Search Process for Continuous Subgraph Matching over Dynamic Graphs.**</span>  <span style="font-size: 15px;color:brown">ICDE 2024</span>.   <br/> <span style="font-size: 15px;">  Ziming Li, **<u>Youhuan Li*</u>**, Xinhuan Chen, Lei Zou, Yang Li, Xiaofeng Yang, Hongbo Jiang </span>  
@@ -32,3 +32,4 @@ Selected Publications
 - <span style="font-size: 15px;color:blue">**Time constrained continuous subgraph search over streaming graphs.**</span>  <span style="font-size: 15px;color:brown">ICDE 2019</span>.   <br/> <span style="font-size: 15px;">  **<u>Youhuan Li</u>**, Lei Zou, M Tamer Ozsu, Dongyan Zhao </span>  
 - <span style="font-size: 15px;color:blue">**Longest Increasing Subsequence Computation over Streaming Sequences.**</span>   <span style="font-size: 15px;color:brown">TKDE 2017.</span>   <br/> <span style="font-size: 15px;">  **<u>Youhuan Li</u>**, Lei Zou, Huaming Zhang, Dongyan Zhao </span>  
 - <span style="font-size: 15px;color:blue">**Computing Longest Increasing Subsequence Over Sequential Data Streams.**</span>    <span style="font-size: 15px;color:brown">VLDB 2016.</span>   <br/> <span style="font-size:15px;">  **<u>Youhuan Li</u>**, Lei Zou, Huaming Zhang, Dongyan Zhao </span>  
+
